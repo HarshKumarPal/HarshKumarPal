@@ -8,7 +8,7 @@
 
 ### 🌱 What I'm Up To
 
-- 🔍 Currently working on a project related to Augmented Reality.
+- 🔍 Currently working on a project related to Machine Learning.
 - 📚 Learning full-stack development.
 
 
@@ -18,10 +18,10 @@
 - ✉ Email: harsh21047@iiitd.ac.in, harshkumarpal2002@gmail.com (personal)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshit-raj-19670b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="34" width="40" /></a>
-  <a href="https://leetcode.com/u/its_khr_iiitd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_khr_iiitd" height="34" width="40" /></a>
-  <a href="https://codeforces.com/profile/Harshit_2021051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Harshit_2021051" height="34" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/harshit3pcz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshit3pcz" height="34" width="40" /></a>
+  <a href="https://www.linkedin.com/in/harsh-kumar-pal-85b14b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="34" width="40" /></a>
+  <a href="https://leetcode.com/u/HarshKumarPal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_khr_iiitd" height="34" width="40" /></a>
+  <a href="https://codeforces.com/profile/Harsh_2021047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Harshit_2021051" height="34" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/harsh2b58r/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshit3pcz" height="34" width="40" /></a>
 </p>
 
 ## Toolbox
